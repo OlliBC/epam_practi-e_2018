@@ -1,0 +1,11 @@
+E:\Programs\Projects Visual Studio\Skills\Entity\bin\Debug\Entity.dll
+E:\Programs\Projects Visual Studio\Skills\Entity\bin\Debug\Entity.pdb
+E:\Programs\Projects Visual Studio\Skills\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+E:\Programs\Projects Visual Studio\Skills\Entity\obj\Debug\Entity.dll
+E:\Programs\Projects Visual Studio\Skills\Entity\obj\Debug\Entity.pdb
+C:\Users\root\Desktop\Skill_accounting_system\Skill_accounting_system\Entity\bin\Debug\Entity.dll
+C:\Users\root\Desktop\Skill_accounting_system\Skill_accounting_system\Entity\bin\Debug\Entity.pdb
+C:\Users\root\Desktop\Skill_accounting_system\Skill_accounting_system\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+C:\Users\root\Desktop\Skill_accounting_system\Skill_accounting_system\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\root\Desktop\Skill_accounting_system\Skill_accounting_system\Entity\obj\Debug\Entity.dll
+C:\Users\root\Desktop\Skill_accounting_system\Skill_accounting_system\Entity\obj\Debug\Entity.pdb

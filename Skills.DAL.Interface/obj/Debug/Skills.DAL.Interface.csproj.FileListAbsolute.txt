@@ -1,0 +1,17 @@
+E:\Programs\Projects Visual Studio\Skills\Skills.DAL.Interface\obj\Debug\Skills.DAL.Interface.csprojAssemblyReference.cache
+E:\Programs\Projects Visual Studio\Skills\Skills.DAL.Interface\obj\Debug\Skills.DAL.Interface.csproj.CoreCompileInputs.cache
+E:\Programs\Projects Visual Studio\Skills\Skills.DAL.Interface\bin\Debug\Skills.DAL.Interface.dll
+E:\Programs\Projects Visual Studio\Skills\Skills.DAL.Interface\bin\Debug\Skills.DAL.Interface.pdb
+E:\Programs\Projects Visual Studio\Skills\Skills.DAL.Interface\bin\Debug\Entity.dll
+E:\Programs\Projects Visual Studio\Skills\Skills.DAL.Interface\bin\Debug\Entity.pdb
+E:\Programs\Projects Visual Studio\Skills\Skills.DAL.Interface\obj\Debug\Skills.DAL.Interface.csproj.CopyComplete
+E:\Programs\Projects Visual Studio\Skills\Skills.DAL.Interface\obj\Debug\Skills.DAL.Interface.dll
+E:\Programs\Projects Visual Studio\Skills\Skills.DAL.Interface\obj\Debug\Skills.DAL.Interface.pdb
+C:\Users\root\Desktop\Skill_accounting_system\Skill_accounting_system\Skills.DAL.Interface\bin\Debug\Skills.DAL.Interface.dll
+C:\Users\root\Desktop\Skill_accounting_system\Skill_accounting_system\Skills.DAL.Interface\bin\Debug\Skills.DAL.Interface.pdb
+C:\Users\root\Desktop\Skill_accounting_system\Skill_accounting_system\Skills.DAL.Interface\bin\Debug\Entity.dll
+C:\Users\root\Desktop\Skill_accounting_system\Skill_accounting_system\Skills.DAL.Interface\bin\Debug\Entity.pdb
+C:\Users\root\Desktop\Skill_accounting_system\Skill_accounting_system\Skills.DAL.Interface\obj\Debug\Skills.DAL.Interface.csprojResolveAssemblyReference.cache
+C:\Users\root\Desktop\Skill_accounting_system\Skill_accounting_system\Skills.DAL.Interface\obj\Debug\Skills.DAL.Interface.csproj.CoreCompileInputs.cache
+C:\Users\root\Desktop\Skill_accounting_system\Skill_accounting_system\Skills.DAL.Interface\obj\Debug\Skills.DAL.Interface.dll
+C:\Users\root\Desktop\Skill_accounting_system\Skill_accounting_system\Skills.DAL.Interface\obj\Debug\Skills.DAL.Interface.pdb

@@ -1,0 +1,47 @@
+E:\Programs\Projects Visual Studio\Skills\Skills\bin\Debug\Skills.exe.config
+E:\Programs\Projects Visual Studio\Skills\Skills\bin\Debug\Skills.exe
+E:\Programs\Projects Visual Studio\Skills\Skills\bin\Debug\Skills.pdb
+E:\Programs\Projects Visual Studio\Skills\Skills\bin\Debug\Ninject.dll
+E:\Programs\Projects Visual Studio\Skills\Skills\bin\Debug\Ninject.xml
+E:\Programs\Projects Visual Studio\Skills\Skills\obj\Debug\Skills.csproj.CoreCompileInputs.cache
+E:\Programs\Projects Visual Studio\Skills\Skills\obj\Debug\Skills.csproj.CopyComplete
+E:\Programs\Projects Visual Studio\Skills\Skills\obj\Debug\Skills.exe
+E:\Programs\Projects Visual Studio\Skills\Skills\obj\Debug\Skills.pdb
+E:\Programs\Projects Visual Studio\Skills\Skills\bin\Debug\Entity.dll
+E:\Programs\Projects Visual Studio\Skills\Skills\bin\Debug\NinjectCommon.dll
+E:\Programs\Projects Visual Studio\Skills\Skills\bin\Debug\Skills.BLL.Interface.dll
+E:\Programs\Projects Visual Studio\Skills\Skills\bin\Debug\Skills.DAL.Interface.dll
+E:\Programs\Projects Visual Studio\Skills\Skills\bin\Debug\Skills.DAL.DAO.dll
+E:\Programs\Projects Visual Studio\Skills\Skills\bin\Debug\Skills.BLL.Logic.dll
+E:\Programs\Projects Visual Studio\Skills\Skills\bin\Debug\Entity.pdb
+E:\Programs\Projects Visual Studio\Skills\Skills\bin\Debug\NinjectCommon.pdb
+E:\Programs\Projects Visual Studio\Skills\Skills\bin\Debug\Skills.BLL.Interface.pdb
+E:\Programs\Projects Visual Studio\Skills\Skills\bin\Debug\Skills.DAL.Interface.pdb
+E:\Programs\Projects Visual Studio\Skills\Skills\bin\Debug\Skills.DAL.DAO.pdb
+E:\Programs\Projects Visual Studio\Skills\Skills\bin\Debug\Skills.BLL.Logic.pdb
+E:\Programs\Projects Visual Studio\Skills\Skills\obj\Debug\Skills.csprojAssemblyReference.cache
+E:\Programs\Projects Visual Studio\Skills\Skills\bin\Debug\BLL.Logging.dll
+E:\Programs\Projects Visual Studio\Skills\Skills\bin\Debug\BLL.Logging.pdb
+C:\Users\root\Desktop\Skill_accounting_system\Skill_accounting_system\Skills\bin\Debug\Skills.exe.config
+C:\Users\root\Desktop\Skill_accounting_system\Skill_accounting_system\Skills\bin\Debug\Skills.exe
+C:\Users\root\Desktop\Skill_accounting_system\Skill_accounting_system\Skills\bin\Debug\Skills.pdb
+C:\Users\root\Desktop\Skill_accounting_system\Skill_accounting_system\Skills\bin\Debug\Entity.dll
+C:\Users\root\Desktop\Skill_accounting_system\Skill_accounting_system\Skills\bin\Debug\Ninject.dll
+C:\Users\root\Desktop\Skill_accounting_system\Skill_accounting_system\Skills\bin\Debug\NinjectCommon.dll
+C:\Users\root\Desktop\Skill_accounting_system\Skill_accounting_system\Skills\bin\Debug\Skills.BLL.Interface.dll
+C:\Users\root\Desktop\Skill_accounting_system\Skill_accounting_system\Skills\bin\Debug\Skills.DAL.Interface.dll
+C:\Users\root\Desktop\Skill_accounting_system\Skill_accounting_system\Skills\bin\Debug\Skills.DAL.DAO.dll
+C:\Users\root\Desktop\Skill_accounting_system\Skill_accounting_system\Skills\bin\Debug\Skills.BLL.Logic.dll
+C:\Users\root\Desktop\Skill_accounting_system\Skill_accounting_system\Skills\bin\Debug\BLL.Logging.dll
+C:\Users\root\Desktop\Skill_accounting_system\Skill_accounting_system\Skills\bin\Debug\Entity.pdb
+C:\Users\root\Desktop\Skill_accounting_system\Skill_accounting_system\Skills\bin\Debug\NinjectCommon.pdb
+C:\Users\root\Desktop\Skill_accounting_system\Skill_accounting_system\Skills\bin\Debug\Skills.BLL.Interface.pdb
+C:\Users\root\Desktop\Skill_accounting_system\Skill_accounting_system\Skills\bin\Debug\Ninject.xml
+C:\Users\root\Desktop\Skill_accounting_system\Skill_accounting_system\Skills\bin\Debug\Skills.DAL.Interface.pdb
+C:\Users\root\Desktop\Skill_accounting_system\Skill_accounting_system\Skills\bin\Debug\Skills.DAL.DAO.pdb
+C:\Users\root\Desktop\Skill_accounting_system\Skill_accounting_system\Skills\bin\Debug\Skills.BLL.Logic.pdb
+C:\Users\root\Desktop\Skill_accounting_system\Skill_accounting_system\Skills\bin\Debug\BLL.Logging.pdb
+C:\Users\root\Desktop\Skill_accounting_system\Skill_accounting_system\Skills\obj\Debug\Skills.csprojResolveAssemblyReference.cache
+C:\Users\root\Desktop\Skill_accounting_system\Skill_accounting_system\Skills\obj\Debug\Skills.csproj.CoreCompileInputs.cache
+C:\Users\root\Desktop\Skill_accounting_system\Skill_accounting_system\Skills\obj\Debug\Skills.exe
+C:\Users\root\Desktop\Skill_accounting_system\Skill_accounting_system\Skills\obj\Debug\Skills.pdb

@@ -1,0 +1,21 @@
+E:\Programs\Projects Visual Studio\Skills\Skills.DAL.DAO\bin\Debug\Skills.DAL.DAO.dll
+E:\Programs\Projects Visual Studio\Skills\Skills.DAL.DAO\bin\Debug\Skills.DAL.DAO.pdb
+E:\Programs\Projects Visual Studio\Skills\Skills.DAL.DAO\bin\Debug\Entity.dll
+E:\Programs\Projects Visual Studio\Skills\Skills.DAL.DAO\bin\Debug\Entity.pdb
+E:\Programs\Projects Visual Studio\Skills\Skills.DAL.DAO\obj\Debug\Skills.DAL.DAO.csprojAssemblyReference.cache
+E:\Programs\Projects Visual Studio\Skills\Skills.DAL.DAO\obj\Debug\Skills.DAL.DAO.csproj.CoreCompileInputs.cache
+E:\Programs\Projects Visual Studio\Skills\Skills.DAL.DAO\obj\Debug\Skills.DAL.DAO.csproj.CopyComplete
+E:\Programs\Projects Visual Studio\Skills\Skills.DAL.DAO\obj\Debug\Skills.DAL.DAO.dll
+E:\Programs\Projects Visual Studio\Skills\Skills.DAL.DAO\obj\Debug\Skills.DAL.DAO.pdb
+E:\Programs\Projects Visual Studio\Skills\Skills.DAL.DAO\bin\Debug\Skills.DAL.Interface.dll
+E:\Programs\Projects Visual Studio\Skills\Skills.DAL.DAO\bin\Debug\Skills.DAL.Interface.pdb
+C:\Users\root\Desktop\Skill_accounting_system\Skill_accounting_system\Skills.DAL.DAO\bin\Debug\Skills.DAL.DAO.dll
+C:\Users\root\Desktop\Skill_accounting_system\Skill_accounting_system\Skills.DAL.DAO\bin\Debug\Skills.DAL.DAO.pdb
+C:\Users\root\Desktop\Skill_accounting_system\Skill_accounting_system\Skills.DAL.DAO\bin\Debug\Entity.dll
+C:\Users\root\Desktop\Skill_accounting_system\Skill_accounting_system\Skills.DAL.DAO\bin\Debug\Skills.DAL.Interface.dll
+C:\Users\root\Desktop\Skill_accounting_system\Skill_accounting_system\Skills.DAL.DAO\bin\Debug\Entity.pdb
+C:\Users\root\Desktop\Skill_accounting_system\Skill_accounting_system\Skills.DAL.DAO\bin\Debug\Skills.DAL.Interface.pdb
+C:\Users\root\Desktop\Skill_accounting_system\Skill_accounting_system\Skills.DAL.DAO\obj\Debug\Skills.DAL.DAO.csprojResolveAssemblyReference.cache
+C:\Users\root\Desktop\Skill_accounting_system\Skill_accounting_system\Skills.DAL.DAO\obj\Debug\Skills.DAL.DAO.csproj.CoreCompileInputs.cache
+C:\Users\root\Desktop\Skill_accounting_system\Skill_accounting_system\Skills.DAL.DAO\obj\Debug\Skills.DAL.DAO.dll
+C:\Users\root\Desktop\Skill_accounting_system\Skill_accounting_system\Skills.DAL.DAO\obj\Debug\Skills.DAL.DAO.pdb
